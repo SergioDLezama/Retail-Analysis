@@ -1,2 +1,6 @@
+# Ignore the virtual enviroment
 venv/
 .env
+
+# Ignore the dataset
+.csv
